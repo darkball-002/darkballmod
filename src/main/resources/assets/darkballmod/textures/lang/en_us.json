@@ -1,0 +1,63 @@
+{
+  
+  "item.darkballmod.unfinished_white_steel": "Unfinished white steel",
+  "item.darkballmod.unfinished_dark_steel": "Unfinished dark steel",
+  
+  "item.darkballmod.sapphire": "Sapphire gem",
+  "item.darkballmod.white_steel": "White Steel",
+  "item.darkballmod.dark_steel": "Dark Steel",
+  
+  
+  "item.darkballmod.iron_stick": "Iron Stick",
+  "item.darkballmod.dark_white_upgrade_smithing_template": "DarkWhite Upgrade Template",
+  
+  "item.darkballmod.sapphire_sword": "Sapphire Sword",
+  "item.darkballmod.white_steel_sword": "WhiteSteel Sword",
+  "item.darkballmod.dark_steel_sword": "DarkSteel Sword",
+  "item.darkballmod.dark_white_sword": "Dark white Sword",
+  
+  
+  "item.darkballmod.sapphire_axe": "Sapphire Axe",
+  "item.darkballmod.white_steel_axe": "whiteSteel Axe",
+  "item.darkballmod.dark_steel_axe": "DarkSteel Axe",
+  "item.darkballmod.dark_white_axe": "DarkWhite Axe",
+  
+  
+  "item.darkballmod.sapphire_pickaxe": "Sapphire Pickaxe",
+  "item.darkballmod.white_steel_pickaxe": "WhiteSteel Pickaxe",
+  "item.darkballmod.dark_steel_pickaxe": "DarkSteel Pickaxe",
+  "item.darkballmod.dark_white_pickaxe": "DarkWhite Pickaxe",
+  
+  
+  "item.darkballmod.sapphire_shovel": "Sapphire Shovel",
+  "item.darkballmod.white_steel_shovel": "WhiteSteel Shovel",
+  "item.darkballmod.dark_steel_shovel": "DarkSteel Shovel",
+  "item.darkballmod.dark_white_shovel": "DarkWhite Shovel",
+  
+  
+  "item.darkballmod.sapphire_hoe": "Sapphire Hoe",
+  "item.darkballmod.white_steel_hoe": "WhiteSteel Hoe",
+  "item.darkballmod.dark_steel_hoe": "DarkSteel Hoe",
+  "item.darkballmod.dark_white_hoe": "DarkWhite Hoe",
+  
+  
+  "item.darkballmod.sickle": "Sickle",
+  "item.darkballmod.darkball_sickle": "Void Sickle",
+  
+  
+  "block.darkballmod.gem_polishing_station":"Gem_Polishing_Station",
+  "block.darkballmod.sapphire_block":"Sapphire_block",
+  
+  
+  "block.darkballmod.sapphire_ore":"SapphireOre",
+  "block.darkballmod.deepslate_sapphire_ore":"DeepslateSapphire_Ore",
+  "block.darkballmod.bedrock_sapphire_ore": "BedrockSapphire_Ore",
+  
+  
+  "creativetab.gem_tab": "darkballmod_normal_items", 
+  "creativetab.tool_tab": "darkballmod_tool",         
+  "creativetab.sword_tab": "darkballmod_sword",        
+  "creativetab.block_tab": "darkballmod_block"         
+
+  
+ }

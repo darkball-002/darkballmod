@@ -1,0 +1,57 @@
+{
+  
+  "item.darkballmod.unfinished_white_steel": "未完成的白鋼",
+  "item.darkballmod.unfinished_dark_steel": "未完成的暗鋼",
+  
+  "item.darkballmod.sapphire": "藍寶石",
+  "item.darkballmod.white_steel": "白鋼",
+  "item.darkballmod.dark_steel": "暗鋼",
+  
+  "item.darkballmod.iron_stick": "鐵棒",
+  "item.darkballmod.dark_white_upgrade_smithing_template": "黑白鍛造模板",
+  
+  "item.darkballmod.sapphire_sword": "藍寶石劍",
+  "item.darkballmod.white_steel_sword": "白鋼劍",
+  "item.darkballmod.dark_steel_sword": "暗鋼劍",
+  "item.darkballmod.dark_white_sword": "黑白劍",
+
+  "item.darkballmod.sapphire_axe": "藍寶石斧頭",
+  "item.darkballmod.white_steel_axe": "白鋼斧頭",
+  "item.darkballmod.dark_steel_axe": "暗鋼斧頭",
+  "item.darkballmod.dark_white_axe": "黑白斧頭",
+
+  "item.darkballmod.sapphire_pickaxe": "藍寶石鎬",
+  "item.darkballmod.white_steel_pickaxe": "白鋼鎬",
+  "item.darkballmod.dark_steel_pickaxe": "暗鋼鎬",
+  "item.darkballmod.dark_white_pickaxe": "黑白鎬",
+  
+  "item.darkballmod.sapphire_shovel": "藍寶石鏟子",
+  "item.darkballmod.white_steel_shovel": "白鋼鏟子",
+  "item.darkballmod.dark_steel_shovel": "暗鋼鏟子",
+  "item.darkballmod.dark_white_shovel": "黑白鏟子",
+  
+  
+  "item.darkballmod.sapphire_hoe": "藍寶石锄",
+  "item.darkballmod.white_steel_hoe": "白鋼锄",
+  "item.darkballmod.dark_steel_hoe": "暗鋼锄",
+  "item.darkballmod.dark_white_hoe": "黑白锄",
+  
+  
+  "item.darkballmod.sickle": "镰刀",
+  "item.darkballmod.darkball_sickle": "虛空镰刀",
+
+
+  "block.darkballmod.gem_polishing_station":"寶石鑑定台",
+  "block.darkballmod.sapphire_block": "藍寶石方塊",
+  
+  
+  "block.darkballmod.sapphire_ore": "藍寶石礦石",
+  "block.darkballmod.deepslate_sapphire_ore": "深板岩藍寶石礦石",
+  "block.darkballmod.bedrock_sapphire_ore": "基岩藍寶石礦石",
+
+
+  "creativetab.gem_tab":"黑球MOD: 一般物品",
+  "creativetab.tool_tab":"黑球MOD: 工具",
+  "creativetab.sword_tab":"黑球MOD: 武器",
+  "creativetab.block_tab":"黑球MOD:方塊"
+}

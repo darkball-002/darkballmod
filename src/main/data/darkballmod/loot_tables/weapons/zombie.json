@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:loot_table",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "name": "darkballmod:loot_tables/weapons/my_weapon_loot_table"
+        }
+      ]
+    }
+  ]
+}

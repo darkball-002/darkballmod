@@ -1,4 +1,4 @@
-package net.darkball.darkballmod.screen;
+package net.darkball.darkballmod.MainClass.screen;
 
 import com.mojang.blaze3d.systems.RenderSystem;
 

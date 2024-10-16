@@ -1,4 +1,4 @@
-package net.darkball.darkballmod.screen;
+package net.darkball.darkballmod.MainClass.screen;
 
 import net.darkball.darkballmod.MainClass.block.*;
 import net.darkball.darkballmod.MainClass.block.entity.*;
